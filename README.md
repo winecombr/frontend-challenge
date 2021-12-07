@@ -1,3 +1,6 @@
+<img src="https://firebasestorage.googleapis.com/v0/b/teste-upload-b324a.appspot.com/o/Logo-Wine-990x640.jpeg?alt=media&token=d07a516f-6880-4c8c-8dea-723f36687d95" alt="alt text" width="100%" height="300px">
+
+
 # 🚀 Front end challenge
 
 Bem-vindo(a). Este é o desafio Front end!
